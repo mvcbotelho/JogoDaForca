@@ -3,7 +3,9 @@
 Jogo simples para estudos da linguagem ruby
 
 ## Para jogar
-Basta abrir o forca.rb em um terminal ruby com o comando
+Basta abrir o main.rb em um terminal ruby com o comando
 ```
-ruby forca.rb
+ruby main.rb
 ``` 
+
+Arquivos de interface estão em ui.rb e a lógica de negócios em forca.rb
